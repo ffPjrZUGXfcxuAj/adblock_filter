@@ -1,0 +1,18 @@
+[Adblock Plus 1.1]
+! Version: 202402010840
+! Title: Lavoro
+! Last modified: 01 Feb 2024 08:40 UTC
+! Expires: 1 days (frequenza di aggiornamento)
+! Homepage: https://motostorie.blog/
+! Licenza: https://easylist.to/pages/licence.html
+!
+! Lavoro - Lista di Lavoro
+!
+! Per favore segnala problemi o pubblicità non bloccate
+! nel forum: (https://forum.motostorie.blog/)
+! o via e-mail: (easylistitaly@protonmail.com).
+!
+!----------------Regole generali per le pubblicità da bloccare----------------!
+! *** lavoro/lavoro.txt ***
+@@||serving-sys.com^$script,image,domain=aruba.it
+||testengagent.aruba.it^$script,domain=managehosting.aruba.it
