@@ -15,8 +15,4 @@
 !----------------Regole generali per le pubblicità da bloccare----------------!
 ! *** personale/personale.txt ***
 @@||adv.motostorie.blog^$stylesheet,script,image,domain=adv.motostorie.blog
-@@||mondomobileweb.it^$elemhide,domain=mondomobileweb.it
-@@||mattinopadova.gelocal.it^$elemhide,domain=mattinopadova.gelocal.it
-@@||ispazio.net^$elemhide,domain=ispazio.net
-@@||iphoneitalia.com^$elemhide,domain=iphoneitalia.com
-@@||corriere.it^$elemhide,domain=corriere.it
+@@||*$elemhide,domain=corriere.it|mattinopadova.gelocal.it|iphoneitalia.com|ispazio.net|mondomobileweb.it
