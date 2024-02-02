@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402021424
+! Version: 202402021434
 ! Title: ABP Personale
-! Last modified: 02 Feb 2024 14:24 UTC
+! Last modified: 02 Feb 2024 14:34 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://motostorie.blog/
 ! Licenza: https://easylist.to/pages/licence.html
