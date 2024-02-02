@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402011314
+! Version: 202402021424
 ! Title: ABP Personale
-! Last modified: 01 Feb 2024 13:14 UTC
+! Last modified: 02 Feb 2024 14:24 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://motostorie.blog/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -19,3 +19,4 @@
 @@||mattinopadova.gelocal.it^$elemhide,domain=mattinopadova.gelocal.it
 @@||ispazio.net^$elemhide,domain=ispazio.net
 @@||iphoneitalia.com^$elemhide,domain=iphoneitalia.com
+@@||corriere.it^$elemhide,domain=corriere.it
