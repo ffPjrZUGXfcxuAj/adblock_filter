@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402011421
+! Version: 202402271616
 ! Title: ABP Lavoro
-! Last modified: 01 Feb 2024 08:40 UTC
+! Last modified: 27 Feb 2024 16:16 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://motostorie.blog/
 ! Licenza: https://easylist.to/pages/licence.html
