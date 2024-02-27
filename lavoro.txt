@@ -16,3 +16,4 @@
 ! *** lavoro/lavoro.txt ***
 @@||serving-sys.com^$script,image,domain=aruba.it
 ||testengagent.aruba.it^$script,domain=managehosting.aruba.it
+@@||usabilla.com^$script,domain=aruba.it
