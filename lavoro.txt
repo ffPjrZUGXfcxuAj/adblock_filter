@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202402271622
+! Version: 202403270856
 ! Title: ABP Lavoro
-! Last modified: 27 Feb 2024 16:22 UTC
+! Last modified: 27 MAR 2024 08:56 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://motostorie.blog/
 ! Licenza: https://easylist.to/pages/licence.html
@@ -17,3 +17,4 @@
 @@||serving-sys.com^$script,image,domain=aruba.it
 ||testengagent.aruba.it^$script,domain=managehosting.aruba.it
 @@||w.usabilla.com^$script,domain=managehosting.aruba.it|admin.aruba.it
+@@||managehosting.aruba.it/customerarea/js/modules/*/notification.min.js
