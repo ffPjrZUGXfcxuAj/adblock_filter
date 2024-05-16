@@ -1,9 +1,9 @@
 [Adblock Plus 1.1]
-! Version: 202403270908
+! Version: 202405160909
 ! Title: ABP Lavoro
-! Last modified: 27 MAR 2024 09:08 UTC
+! Last modified: 16 may 2024 09:09 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
-! Homepage: https://motostorie.blog/
+! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/raw/main/lavoro.txt
 ! Licenza: https://easylist.to/pages/licence.html
 !
 ! Lavoro - Lista di Lavoro
