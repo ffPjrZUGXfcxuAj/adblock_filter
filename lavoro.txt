@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202405170729
+! Version: 202405171333
 ! Title: ABP Lavoro
-! Last modified: 17 may 2024 07:29 UTC
+! Last modified: 17 may 2024 13:33 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/raw/main/lavoro.txt
 ! Licenza: https://easylist.to/pages/licence.html
@@ -19,6 +19,7 @@
 @@||anmirosolina.it^$document
 @@||jira.aruba.it^$document
 @@||confluence.aruba.it^$document
+@@||buildserver.staff.aruba.it^$document
 @@||serving-sys.com^$script,image,domain=aruba.it
 ||testengagent.aruba.it^$script,domain=managehosting.aruba.it
 @@||w.usabilla.com^$script,domain=managehosting.aruba.it|admin.aruba.it
