@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202405301037
+! Version: 202406140928
 ! Title: ABP Personale
-! Last modified: 30 may 2024 10:37 UTC
+! Last modified: 14 jun 2024 09:28 CEST
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/raw/main/personale.txt
 ! Licenza: https://easylist.to/pages/licence.html
@@ -16,7 +16,7 @@
 @@||motostorie.blog^$document
 @@||pallacanestropiovese.it^$document
 @@||anmirosolina.it^$document
-@@||telefoniatech.it^$document
-@@||windowsblogitalia.com^$document
+@@||telefoniatech.it^$ELEMHIDE
+@@||windowsblogitalia.com^$ELEMHIDE
 @@||adv.motostorie.blog^$stylesheet,script,image,domain=adv.motostorie.blog
 @@||*$elemhide,domain=corriere.it|mattinopadova.gelocal.it|iphoneitalia.com|ispazio.net|mondomobileweb.it|matricedigitale.it
