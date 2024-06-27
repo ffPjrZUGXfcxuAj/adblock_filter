@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202406271051
+! Version: 202406271101
 ! Title: ABP Lavoro by Thomas
-! Last modified: 27 june 2024 10:51 CEST
+! Last modified: 27 june 2024 11:01 CEST
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/raw/main/lavoro.txt
 ! Licenza: https://easylist.to/pages/licence.html
@@ -9,7 +9,8 @@
 ! Lavoro - Lista di Lavoro
 !
 ! Per favore segnala problemi o pubblicità non bloccate
-! nel forum: (https://forum.motostorie.blog/t/sviluppo/).
+! nel forum: (https://forum.motostorie.blog/t/sviluppo/)
+! Dona: (https://buy.stripe.com/dR6bIV35m6kC4UM4gj).
 !
 !----------------Regole generali per le pubblicità da bloccare----------------!
 ! *** lavoro/lavoro.txt ***
