@@ -2,7 +2,7 @@
 ! Version: 141027062024
 ! Title: ABP Personale
 ! Last modified: 27 jun 2024 14:10 CEST
-! Expires: 1 days (frequenza di aggiornamento)
+! Expires: 12 hours (frequenza di aggiornamento)
 ! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/raw/main/personale.txt
 ! Licenza: https://easylist.to/pages/licence.html
 !
