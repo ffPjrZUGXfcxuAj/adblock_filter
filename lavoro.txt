@@ -1,5 +1,5 @@
 [Adblock Plus 1.1]
-! Version: 202406271101
+! Version: 110127062024
 ! Title: ABP Lavoro by Thomas
 ! Last modified: 27 june 2024 11:01 CEST
 ! Expires: 1 days (frequenza di aggiornamento)
