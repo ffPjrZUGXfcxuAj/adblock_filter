@@ -2,7 +2,7 @@
 ! Version: 141127062024
 ! Title: ABP Lavoro by Thomas
 ! Last modified: 27 june 2024 14:11 CEST
-! Expires: 1 days (frequenza di aggiornamento)
+! Expires: 12 hours (frequenza di aggiornamento)
 ! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/raw/main/lavoro.txt
 ! Licenza: https://easylist.to/pages/licence.html
 !
