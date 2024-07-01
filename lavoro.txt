@@ -1,9 +1,9 @@
-[Adblock Plus 1.1]
-! Version: 141127062024
+[Adblock Plus 4.2]
+! Version: 113301072024
 ! Title: ABP Lavoro by Thomas
-! Last modified: 27 june 2024 14:11 CEST
+! Last modified: 01 july 2024 11:33 CEST
 ! Expires: 12 hours (frequenza di aggiornamento)
-! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/raw/main/lavoro.txt
+! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/blob/main/lavoro.txt
 ! Licenza: https://easylist.to/pages/licence.html
 !
 ! Lavoro - Lista di Lavoro
