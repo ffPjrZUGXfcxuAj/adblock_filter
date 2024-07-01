@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 104428062024
+! Version: 112701072024
 ! Title: ABP Personale
-! Last modified: 28 jun 2024 10:44 CEST
+! Last modified: 01 july 2024 11:27 CEST
 ! Expires: 12 hours (frequenza di aggiornamento)
 ! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/raw/main/personale.txt
 ! Licenza: https://easylist.to/pages/licence.html
