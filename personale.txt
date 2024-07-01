@@ -27,3 +27,4 @@
 @@||windowsblogitalia.com^$elemhide
 @@||telefoniatech.it^$elemhide
 @@||huffingtonpost.it^$elemhide
+@@||investing.com^$elemhide
