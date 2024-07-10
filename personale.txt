@@ -1,7 +1,7 @@
-[Adblock Plus 4.2]
-! Version: 084204072024
+[Adblock Plus 4.3]
+! Version: 114010072024
 ! Title: ABP Personale
-! Last modified: 04 july 2024 08:42 CEST
+! Last modified: 10 july 2024 11:40 CEST
 ! Expires: 12 hours (frequenza di aggiornamento)
 ! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/blob/main/personale.txt
 ! Licenza: https://easylist.to/pages/licence.html
@@ -31,3 +31,4 @@
 @@||elpais.com^$elemhide
 @@||marca.com^$elemhide
 @@||repubblica.it^$elemhide
+@@||macitynet.it^$elemhide
