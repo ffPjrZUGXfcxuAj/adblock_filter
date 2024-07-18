@@ -1,7 +1,7 @@
 [Adblock Plus 4.3]
-! Version: 093518072024
+! Version: 123518072024
 ! Title: ABP Lavoro by Thomas
-! Last modified: 18 july 2024 09:35 CEST
+! Last modified: 18 july 2024 12:35 CEST
 ! Expires: 12 hours (frequenza di aggiornamento)
 ! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/blob/main/lavoro.txt
 ! Licenza: https://easylist.to/pages/licence.html
@@ -25,4 +25,5 @@
 @@||w.usabilla.com^$script,domain=managehosting.aruba.it|admin.aruba.it
 @@||*/notification.*.js^$script
 ~pec.it,~aruba.it###CybotCookiebotDialog
+~pec.it,~aruba.it##.CybotEdge.CybotCookiebotDialogActive
 ~microsoft.com###wcpConsentBannerCtrl
