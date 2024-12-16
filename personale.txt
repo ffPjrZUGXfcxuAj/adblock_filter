@@ -1,7 +1,7 @@
 [Adblock Plus 4.3]
-! Version: 102610102024
+! Version: 080316122024
 ! Title: ABP Personale
-! Last modified: 10 oct 2024 10:26 CEST
+! Last modified: 16 dec 2024 08:03 CEST
 ! Expires: 12 hours (frequenza di aggiornamento)
 ! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/blob/main/personale.txt
 ! Licenza: https://easylist.to/pages/licence.html
@@ -15,6 +15,7 @@
 !----------------Regole generali per le pubblicità da bloccare----------------!
 ! *** personale/personale.txt ***
 @@||motostorie.blog^$document
+@@||telefonino.blog^$document
 @@||pallacanestropiovese.it^$document
 @@||anmirosolina.it^$document
 @@||adv.motostorie.blog^$stylesheet,script,image,domain=adv.motostorie.blog
