@@ -20,8 +20,8 @@
 @@||anmirosolina.it^$elemhide
 @@||pallacanestropiovese.it^$elemhide
 @@||motostorie.blog^$elemhide
-@@||serving-sys.com^$domain=managehosting.aruba.it|admin.aruba.it
-@@||adform.net^$ping,script,image,domain=managehosting.aruba.it|admin.aruba.it
+@@||serving-sys.com^$script,image,xmlhttprequest,domain=managehosting.aruba.it|admin.aruba.it
+@@||adform.net^$domain=managehosting.aruba.it|admin.aruba.it
 ||testengagent.aruba.it^$script,domain=managehosting.aruba.it|gestioneaccessi.aruba.it
 @@||w.usabilla.com^$script,domain=managehosting.aruba.it|admin.aruba.it
 @@||*/notification.*.js^$script
