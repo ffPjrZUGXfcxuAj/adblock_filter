@@ -1,0 +1,27 @@
+---
+# @@||motostorie.blog^$document
+# @@||telefonino.blog^$document
+# @@||pallacanestropiovese.it^$document
+action:
+  type: allow
+condition:
+  requestDomains:
+    - motostorie.blog
+    - pallacanestropiovese.it
+    - telefonino.blog
+  resourceTypes:
+    - main_frame
+---
+# @@||adv.motostorie.blog^$stylesheet,script,image,domain=adv.motostorie.blog
+action:
+  type: allow
+condition:
+  requestDomains:
+    - adv.motostorie.blog
+  initiatorDomains:
+    - adv.motostorie.blog
+  resourceTypes:
+    - image
+    - script
+    - stylesheet
+---
