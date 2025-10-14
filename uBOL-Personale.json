@@ -1,0 +1,37 @@
+[
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "requestDomains": [
+        "motostorie.blog",
+        "pallacanestropiovese.it",
+        "telefonino.blog"
+      ],
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "id": 1
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "requestDomains": [
+        "adv.motostorie.blog"
+      ],
+      "initiatorDomains": [
+        "adv.motostorie.blog"
+      ],
+      "resourceTypes": [
+        "image",
+        "script",
+        "stylesheet"
+      ]
+    },
+    "id": 2
+  }
+]
