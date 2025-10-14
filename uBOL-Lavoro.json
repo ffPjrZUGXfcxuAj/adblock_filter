@@ -1,0 +1,120 @@
+[
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "requestDomains": [
+        "motostorie.blog",
+        "pallacanestropiovese.it",
+        "telefonino.blog"
+      ],
+      "resourceTypes": [
+        "main_frame"
+      ]
+    },
+    "id": 1
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "requestDomains": [
+        "adv.motostorie.blog"
+      ],
+      "initiatorDomains": [
+        "adv.motostorie.blog"
+      ],
+      "resourceTypes": [
+        "image",
+        "script",
+        "stylesheet"
+      ]
+    },
+    "id": 2
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "requestDomains": [
+        "adform.net"
+      ],
+      "initiatorDomains": [
+        "admin.aruba.it",
+        "managehosting.aruba.it"
+      ]
+    },
+    "id": 3
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "urlFilter": "/notification.*.js^",
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "id": 4
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "requestDomains": [
+        "serving-sys.com"
+      ],
+      "initiatorDomains": [
+        "admin.aruba.it",
+        "managehosting.aruba.it"
+      ],
+      "resourceTypes": [
+        "image",
+        "script",
+        "xmlhttprequest"
+      ]
+    },
+    "id": 5
+  },
+  {
+    "action": {
+      "type": "block"
+    },
+    "condition": {
+      "requestDomains": [
+        "testengagent.aruba.it"
+      ],
+      "initiatorDomains": [
+        "gestioneaccessi.aruba.it",
+        "managehosting.aruba.it"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "id": 6
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "requestDomains": [
+        "w.usabilla.com"
+      ],
+      "initiatorDomains": [
+        "admin.aruba.it",
+        "managehosting.aruba.it"
+      ],
+      "resourceTypes": [
+        "script"
+      ]
+    },
+    "id": 7
+  }
+]
