@@ -4,7 +4,7 @@
       "type": "allow"
     },
     "condition": {
-      "requestDomains": [
+      "initiatorDomains": [
         "motostorie.blog",
         "pallacanestropiovese.it",
         "telefonino.blog"
@@ -14,6 +14,18 @@
       ]
     },
     "id": 1
+  },
+  {
+    "action": {
+      "type": "allow"
+    },
+    "condition": {
+      "initiatorDomains": [
+        "radiofonico.it"
+      ]
+    },
+    "priority": 2000000,
+    "id": 2
   },
   {
     "action": {
@@ -32,6 +44,6 @@
         "stylesheet"
       ]
     },
-    "id": 2
+    "id": 3
   }
 ]
