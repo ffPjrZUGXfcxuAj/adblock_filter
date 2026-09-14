@@ -1,7 +1,7 @@
 [Adblock Plus 4.41]
-! Version: 085806072026
+! Version: 121414092026
 ! Title: ABP Lavoro by Thomas
-! Last modified: 06 July 2026 08:58 CEST
+! Last modified: 14 Sept 2026 12:14 CEST
 ! Expires: 12 hours (frequenza di aggiornamento)
 ! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/blob/main/lavoro.txt
 ! Licenza: https://easylist.to/pages/licence.html
@@ -17,7 +17,6 @@
 @@||motostorie.blog^$document
 @@||telefonino.blog^$document
 @@||pallacanestropiovese.it^$document
-@@||adv.motostorie.blog^$stylesheet,script,image,domain=adv.motostorie.blog
 !--
 @@||serving-sys.com^$script,image,xmlhttprequest,domain=managehosting.aruba.it|admin.aruba.it
 @@||adform.net^$domain=managehosting.aruba.it|admin.aruba.it
@@ -26,8 +25,8 @@
 pec.it,aruba.it###CybotCookiebotDialog
 pec.it,aruba.it##.CybotEdge.CybotCookiebotDialogActive
 microsoft.com###wcpConsentBannerCtrl
-@@||managehosting.aruba.it^$elemhide
-@@||admin.aruba.it^$elemhide
-@@||buildserver.staff.aruba.it^$elemhide
-@@||confluence.aruba.it^$elemhide
-@@||jira.aruba.it^$elemhide
+@@||managehosting.aruba.it^$generichide
+@@||admin.aruba.it^$generichide
+@@||buildserver.staff.aruba.it^$generichide
+@@||confluence.aruba.it^$generichide
+@@||jira.aruba.it^$generichide
