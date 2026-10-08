@@ -1,10 +1,10 @@
-[Adblock Plus 4.41]
-! Version: 121014092026
+[Adblock Plus 2.0]
+! Version: 202610080911
 ! Title: ABP Personale
-! Last modified: 14 Sept 2026 12:11 CEST
+! Last modified: 08 Oct 2026 09:11 UTC
 ! Expires: 12 hours (frequenza di aggiornamento)
 ! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/blob/main/personale.txt
-! Licenza: https://easylist.to/pages/licence.html
+! Licenza: https://motostorie.blog
 !
 ! Personale - Lista Personale
 !
