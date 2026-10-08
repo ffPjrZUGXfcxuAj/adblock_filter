@@ -1,10 +1,10 @@
-[Adblock Plus 4.41]
-! Version: 121414092026
+[Adblock Plus 2.0]
+! Version: 202610080911
 ! Title: ABP Lavoro by Thomas
-! Last modified: 14 Sept 2026 12:14 CEST
+! Last modified: 08 Oct 2026 09:11 UTC
 ! Expires: 12 hours (frequenza di aggiornamento)
 ! Homepage: https://github.com/ffPjrZUGXfcxuAj/adblock_filter/blob/main/lavoro.txt
-! Licenza: https://easylist.to/pages/licence.html
+! License: https://motostorie.blog
 !
 ! Lavoro - Lista di Lavoro
 !
@@ -21,7 +21,7 @@
 @@||serving-sys.com^$script,image,xmlhttprequest,domain=managehosting.aruba.it|admin.aruba.it
 @@||adform.net^$domain=managehosting.aruba.it|admin.aruba.it
 @@||w.usabilla.com^$script,domain=managehosting.aruba.it|admin.aruba.it
-@@||*/notification.*.js^$script
+@@/notification.*.js$script,domain=managehosting.aruba.it|admin.aruba.it
 pec.it,aruba.it###CybotCookiebotDialog
 pec.it,aruba.it##.CybotEdge.CybotCookiebotDialogActive
 microsoft.com###wcpConsentBannerCtrl
